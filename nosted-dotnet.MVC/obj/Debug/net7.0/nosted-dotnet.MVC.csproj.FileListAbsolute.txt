@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\marti\source\repos\gruppe7-nosted\nosted-dotnet.MVC\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\marti\source\repos\gruppe7-nosted\nosted-dotnet.MVC\bin\Debug\net7.0\appsettings.json
 C:\Users\marti\source\repos\gruppe7-nosted\nosted-dotnet.MVC\bin\Debug\net7.0\nosted-dotnet.MVC.staticwebassets.runtime.json
@@ -28,3 +29,35 @@ C:\Users\marti\source\repos\gruppe7-nosted\nosted-dotnet.MVC\obj\Debug\net7.0\re
 C:\Users\marti\source\repos\gruppe7-nosted\nosted-dotnet.MVC\obj\Debug\net7.0\nosted-dotnet.MVC.pdb
 C:\Users\marti\source\repos\gruppe7-nosted\nosted-dotnet.MVC\obj\Debug\net7.0\nosted-dotnet.MVC.genruntimeconfig.cache
 C:\Users\marti\source\repos\gruppe7-nosted\nosted-dotnet.MVC\obj\Debug\net7.0\ref\nosted-dotnet.MVC.dll
+=======
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/bin/Debug/net7.0/appsettings.Development.json
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/bin/Debug/net7.0/appsettings.json
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/bin/Debug/net7.0/nosted-dotnet.MVC.staticwebassets.runtime.json
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/bin/Debug/net7.0/nosted-dotnet.MVC
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/bin/Debug/net7.0/nosted-dotnet.MVC.deps.json
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/bin/Debug/net7.0/nosted-dotnet.MVC.runtimeconfig.json
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/bin/Debug/net7.0/nosted-dotnet.MVC.dll
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/bin/Debug/net7.0/nosted-dotnet.MVC.pdb
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.AssemblyInfoInputs.cache
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.AssemblyInfo.cs
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.csproj.CoreCompileInputs.cache
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.RazorAssemblyInfo.cache
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.RazorAssemblyInfo.cs
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/staticwebassets/msbuild.nosted-dotnet.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/staticwebassets/msbuild.build.nosted-dotnet.MVC.props
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.nosted-dotnet.MVC.props
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.nosted-dotnet.MVC.props
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/staticwebassets.build.json
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/staticwebassets.development.json
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/bundle/nosted-dotnet.MVC.styles.css
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/projectbundle/nosted-dotnet.MVC.bundle.scp.css
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.dll
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/refint/nosted-dotnet.MVC.dll
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.pdb
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/nosted-dotnet.MVC.genruntimeconfig.cache
+/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/ref/nosted-dotnet.MVC.dll
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4

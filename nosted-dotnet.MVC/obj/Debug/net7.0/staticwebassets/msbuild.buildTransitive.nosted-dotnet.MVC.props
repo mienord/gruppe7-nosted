@@ -1,3 +1,7 @@
 ﻿<Project>
+<<<<<<< HEAD
   <Import Project="..\buildMultiTargeting\nosted-dotnet.MVC.props" />
+=======
+  <Import Project="../buildMultiTargeting/nosted-dotnet.MVC.props" />
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
 </Project>

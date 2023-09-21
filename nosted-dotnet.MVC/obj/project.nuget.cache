@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QM+wmKaBDRuNj/V3xwMC3mNt09W8NJZ4RjZE/0W4P/4kbAQc+aGhIIrnS+IIBLl/eQ5M6avjg3jVG3Mjc4Nitg==",
+  "dgSpecHash": "BpJ42nky7zbZhh2Jvs3amhFa26Yfk0xCNGzm9isAyt+umqtLF262dQ9nbvlhl+WTssiSvADs30/UK+9oshLbtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\nosted-dotnet.MVC.csproj",
+  "projectFilePath": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/nosted-dotnet.MVC.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marti\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+    "/Users/miemaxine/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.19.4/microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],
   "logs": []
 }

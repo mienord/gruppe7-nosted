@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "fU/9oTD9U6iX73ENn/uvgTxUznIbFJXOMwlUEkt9Odw=",
+=======
+  "Hash": "nMSrzjupTHwzlkuxQHkSXlp4yD0s+Bq5diLIuo/fEtk=",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
   "Source": "nosted-dotnet.MVC",
   "BasePath": "_content/nosted-dotnet.MVC",
   "Mode": "Default",
@@ -8,19 +12,32 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
+<<<<<<< HEAD
       "Name": "nosted-dotnet.MVC\\wwwroot",
       "Source": "nosted-dotnet.MVC",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "Name": "nosted-dotnet.MVC/wwwroot",
+      "Source": "nosted-dotnet.MVC",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\nosted-dotnet.MVC.styles.css",
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/bundle/nosted-dotnet.MVC.styles.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/bundle/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "nosted-dotnet.MVC.styles.css",
       "AssetKind": "All",
@@ -31,6 +48,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\nosted-dotnet.MVC.styles.css"
     },
     {
@@ -38,6 +56,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/bundle/nosted-dotnet.MVC.styles.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/projectbundle/nosted-dotnet.MVC.bundle.scp.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/projectbundle/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "nosted-dotnet.MVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,6 +75,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\nosted-dotnet.MVC.bundle.scp.css"
     },
     {
@@ -55,6 +83,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/obj/Debug/net7.0/scopedcss/projectbundle/nosted-dotnet.MVC.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/css/site.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -65,6 +102,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
@@ -72,6 +110,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/favicon.ico",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -82,6 +129,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
@@ -89,6 +137,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/js/site.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -99,6 +156,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
@@ -242,6 +300,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -252,6 +319,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
@@ -259,6 +327,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -269,6 +346,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
@@ -276,6 +354,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -286,6 +373,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
@@ -293,6 +381,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -303,6 +400,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
@@ -310,6 +408,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -320,6 +427,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
@@ -327,6 +435,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -337,6 +454,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
@@ -344,6 +462,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -354,6 +481,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
@@ -361,6 +489,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -371,6 +508,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -378,6 +516,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -388,6 +535,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
@@ -395,6 +543,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -405,6 +562,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
@@ -412,6 +570,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -422,6 +589,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
@@ -429,6 +597,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -439,6 +616,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
@@ -446,6 +624,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -456,6 +643,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
@@ -463,6 +651,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -473,6 +670,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
@@ -480,6 +678,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -490,6 +697,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
@@ -497,6 +705,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -507,6 +724,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -514,6 +732,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -524,6 +751,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
@@ -531,6 +759,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -541,6 +778,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
@@ -548,6 +786,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -558,6 +805,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
@@ -565,6 +813,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -575,6 +832,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
@@ -582,6 +840,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -592,6 +859,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
@@ -599,6 +867,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -609,6 +886,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
@@ -616,6 +894,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -626,6 +913,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
@@ -633,6 +921,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -643,6 +940,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -650,6 +948,151 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -660,6 +1103,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
@@ -667,6 +1111,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -677,6 +1130,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
@@ -684,6 +1138,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -694,6 +1157,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
@@ -701,6 +1165,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -711,6 +1184,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
@@ -718,6 +1192,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -728,6 +1211,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
@@ -735,6 +1219,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -745,6 +1238,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
@@ -752,6 +1246,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -762,6 +1265,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
@@ -769,6 +1273,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -779,6 +1292,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
@@ -786,6 +1300,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -796,6 +1319,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
@@ -803,6 +1327,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -813,6 +1346,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
@@ -820,6 +1354,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -830,6 +1373,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
@@ -837,6 +1381,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -847,6 +1400,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
@@ -854,6 +1408,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/bootstrap/LICENSE",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -864,6 +1427,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
@@ -1024,6 +1588,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1034,6 +1607,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
@@ -1041,6 +1615,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1051,6 +1634,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
@@ -1058,6 +1642,15 @@
       "SourceId": "nosted-dotnet.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\source\\repos\\gruppe7-nosted\\nosted-dotnet.MVC\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
       "BasePath": "_content/nosted-dotnet.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1068,7 +1661,164 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery/dist/jquery.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Identity": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/lib/jquery/LICENSE.txt",
+      "SourceId": "nosted-dotnet.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miemaxine/repo/gruppe7-nosted/nosted-dotnet.MVC/wwwroot/",
+      "BasePath": "_content/nosted-dotnet.MVC",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+>>>>>>> cbd33d95d58c416da26ea8fff0063b857c2152c4
     }
   ]
 }
