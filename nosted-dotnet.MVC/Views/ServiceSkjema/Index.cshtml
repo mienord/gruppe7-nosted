@@ -1,0 +1,33 @@
+﻿@model nosted_dotnet.MVC.Models.ServiceSkjema.ServiceSkjemaViewModel
+
+<style>
+    .field-Group {
+        margin-bottom: 20px;
+    }
+</style>
+
+<h1>Serviceskjema @Model.ServiceSkjemaId</h1>
+
+@foreach (var fieldGroup in Model.skjemaGroups)
+{
+        <div class="skjema-Group">
+    <h3>@fieldGroup.Name</h3>
+    @if (fieldGroup.SkjemaFelt.Any())
+        {
+    <table>
+        @foreach (var group in fieldGroup.SkjemaFelt)
+            {
+                <tr>
+                    <td>@group</td>
+                    <td><input type="text" name="@group" value=""></td>
+                </tr>
+
+            }
+    </table>
+        }
+        else
+        {
+            <textarea rows="5" cols="50" name="@fieldGroup.Name" placeholder="Fyll inn her..."></textarea>
+            }
+            </div>
+  }
